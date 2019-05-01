@@ -1,11 +1,16 @@
 _repo: L-Afrique-aux-Noirs_58828
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58828-h/images/cover.jpg
 creator:
   author:
     agent_name: Otlet, Paul
     gutenberg_agent_id: '50172'
     url: http://www.gutenberg.org/2009/agents/50172
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58828#L-Afrique-aux-Noirs
 gutenberg_bookshelf:
 - FR Politique
 - FR Nouveautés
